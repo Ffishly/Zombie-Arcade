@@ -1,6 +1,6 @@
 Full (if inconsistent) keyboard and mouse + controller support
 
-Movement: WASD/leftStick<B>
+Movement: WASD/leftStick<n>
 Look: Mouse/RightStick
 Fire: LeftClick/RightTrigger
 Interact: F/westGamePad (i.e. X on xbox - Square on PS5)
