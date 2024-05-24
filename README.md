@@ -1,9 +1,9 @@
 Full (if inconsistent) keyboard and mouse + controller support
 
-Movement: WASD/leftStick</p>
-Look: Mouse/RightStick</p>
-Fire: LeftClick/RightTrigger</p>
-Interact: F/westGamePad (i.e. X on xbox - Square on PS5)</p>
+Movement: WASD/leftStick<br>
+Look: Mouse/RightStick<br>
+Fire: LeftClick/RightTrigger<br>
+Interact: F/westGamePad (i.e. X on xbox - Square on PS5)<br>
 in arcade machines: Click to start on mouse, SouthGamepad on controller
 
 
